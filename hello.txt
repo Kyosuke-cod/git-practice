@@ -1,3 +1,4 @@
 Hello Git
-Hello Github
+Hello GitHub
 Hello VS Code
+Edited on GitHub
